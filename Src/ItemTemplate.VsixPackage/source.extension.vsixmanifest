@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="4ABBFF40-6E1E-43BA-B59A-CEF5A040DCDD" Version="1.11.13" Language="en-US" Publisher="Greg Trevellick" />
+        <Identity Id="4ABBFF40-6E1E-43BA-B59A-CEF5A040DCDD" Version="1.11.20" Language="en-US" Publisher="Greg Trevellick" />
         <DisplayName>SQL Server View</DisplayName>
         <Description xml:space="preserve">An item template for creating / altering a SQL Server view.</Description>
         <MoreInfo>https://github.com/GregTrevellick/VsixItemTemplateSqlScriptView</MoreInfo>
