@@ -10,6 +10,6 @@ After installing this extension a new template will appear in the 'Add New Item'
 
 Similar templates available [here](https://marketplace.visualstudio.com/search?term=trevellick%20tsql&target=VS&category=All%20categories&vsVersion=&sortBy=Relevance) and [here](https://marketplace.visualstudio.com/search?term=trevellick&target=VS&category=All%20categories&vsVersion=&sortBy=Relevance).
 
-Proposed changes can be submitted [here](https://github.com/GregTrevellick/VsixItemTemplateSqlScriptView/pulls).
+Proposed changes can be submitted [here](https://github.com/GregTrevellick/VsixItemTemplateSqlScriptView/issues) or [here](https://github.com/GregTrevellick/VsixItemTemplateSqlScriptView/pulls).
 
 <!--VSMM readme end-->
