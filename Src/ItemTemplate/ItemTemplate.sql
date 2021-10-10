@@ -1,6 +1,4 @@
-﻿/* Changes to this template can be proposed at https://github.com/GregTrevellick/VsixItemTemplateSqlScriptSchema/blob/master/Src/ItemTemplate/ItemTemplate.sql */
-
-IF NOT EXISTS
+﻿IF NOT EXISTS
 			(SELECT 1 
 			FROM sys.views vws
 			INNER JOIN sys.schemas sch ON sch.schema_id = vws.schema_id 
